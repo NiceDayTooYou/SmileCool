@@ -17,12 +17,12 @@
 	},
 	{
 		"date": "08-01-2023",
-		"title": "第四个问题",
-		"description": "你知道Lo-Fi是什么吗，我不建议你去搜索答案",
+		"title": "这是一个关于自我介绍的页面",
+		"description": "但是并没有太多详细的内容，也许以后会进行更新",
 		"icon": "feather:star",
 		"link": {
-			"text": "一个页面",
-			"url": "https://love.liyong.online"
+			"text": "一个可以打印的页面",
+			"url": "https://print.liyong.online"
 		}
 	},
 	{
@@ -53,11 +53,11 @@
 	},
 	{
 		"date": "08-01-2023",
-		"title": "Everyone needs a job",
-		"description": "Because no one works, we will return to primitive society",
+		"title": "热爱生活，知足常乐",
+		"description": "你把视野放到宇宙之外，你会发现地球还不如一粒灰尘，而我们都只是在这蓝色星球的表面而已",
 		"icon": "feather:star",
 		"link": {
-			"text": "My resume",
+			"text": "CV.pdf",
 			"url": "https://flowcv.com/resume/ww2mhitt2c"
 		}
 	},
