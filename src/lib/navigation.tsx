@@ -49,13 +49,13 @@ const staticMenuItems: Array<Array<NavigationItem>> = [
 			type: NavigationItemType.LINK,
 			icon: 'feather:tv',
 			text: 'Two',
-			href: 'https://like.liyong.online',
+			href: 'https://cat.liyong.online',
 		},
                 {
 			type: NavigationItemType.LINK,
 			icon: 'feather:smile',
 			text: 'One',
-			href: 'https://one.liyong.online',
+			href: 'https://light.liyong.online',
 		},
                 {
 			type: NavigationItemType.LINK,
