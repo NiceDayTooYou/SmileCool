@@ -14,11 +14,15 @@
 		"title": "第五个问题",
 		"description": "你知道Lo-Fi是什么吗，我不建议你去搜索答案",
 		"icon": "feather:star"
+		"link": {
+			"text": "一个页面",
+			"url": "https://like.liyong.online"
+		}
 	},
 	{
 		"date": "08-01-2023",
 		"title": "这是一个关于自我介绍的页面",
-		"description": "但是并没有太多详细的内容，也许以后会进行更新",
+		"description": "并没有太多详细的内容，也许以后会进行更新",
 		"icon": "feather:star",
 		"link": {
 			"text": "一个可以打印的页面",
@@ -32,7 +36,7 @@
 		"icon": "feather:star",
 		"link": {
 			"text": "一个页面",
-			"url": "https://love.liyong.online"
+			"url": "https://one.liyong.online"
 		}
 	},
 	{
