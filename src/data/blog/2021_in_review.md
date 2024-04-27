@@ -33,7 +33,7 @@ date: '2023-09-20'
 
 ## :white_check_mark: 学好英语的同时，写好汉字同样重要
 
-[![pPIeluj.png](https://z1.ax1x.com/2023/09/20/pPIeluj.png)](https://imgse.com/i/pPIeluj)
+[![a663afac5b758c20721e67f6b7aebe57.png](https://s1.imagehub.cc/images/2024/04/27/a663afac5b758c20721e67f6b7aebe57.png)](https://www.imagehub.cc/image/b1ibVO)
 
 ## :dart: 其它内容
 
@@ -56,4 +56,4 @@ I will gradually improve and modify these contents in the future.
 
 ---
 
-[![pPILNDJ.png](https://z1.ax1x.com/2023/09/21/pPILNDJ.png)](https://imgse.com/i/pPILNDJ)
+[![1e1aefa9cbb9cdd587a4524ed2c2451e.png](https://s1.imagehub.cc/images/2024/04/27/1e1aefa9cbb9cdd587a4524ed2c2451e.png)](https://www.imagehub.cc/image/b1iIfA)
