@@ -33,7 +33,7 @@ date: '2023-09-20'
 
 ## :white_check_mark: 学好英语的同时，写好汉字同样重要
 
-[![pPIaI58.png](https://z1.ax1x.com/2023/09/21/pPIaI58.png)](https://imgse.com/i/pPIaI58)
+[![89b80c1ae3e7866ce5f7870cedb42f5d.png](https://s1.imagehub.cc/images/2024/04/27/89b80c1ae3e7866ce5f7870cedb42f5d.png)](https://www.imagehub.cc/image/b1iMtk)
 
 ## :dart: 其它内容 
 
