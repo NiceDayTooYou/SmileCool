@@ -33,7 +33,7 @@ date: '2023-09-20'
 
 ## :white_check_mark: 学好英语的同时，写好汉字同样重要
 
-[![pPIabvj.png](https://z1.ax1x.com/2023/09/21/pPIabvj.png)](https://imgse.com/i/pPIabvj)
+[![ff5cd6c1db01aefc47d56e1e4fb433dd.png](https://s1.imagehub.cc/images/2024/04/27/ff5cd6c1db01aefc47d56e1e4fb433dd.png)](https://www.imagehub.cc/image/b1igQ6)
 
 ## :dart: 其它内容
 
@@ -58,10 +58,10 @@ I will gradually improve and modify these contents in the future.
 
 我感觉所有电影都拍摄的并不完整，确实在短短几个小时想表达完整很难，沙丘这部电影的美感还是非常不错的
 
-[![pPTh9zj.jpg](https://z1.ax1x.com/2023/09/24/pPTh9zj.jpg)](https://imgse.com/i/pPTh9zj)
+[![d5be7875658f3edd7947142777ba4656.png](https://s1.imagehub.cc/images/2024/04/27/d5be7875658f3edd7947142777ba4656.png)](https://www.imagehub.cc/image/b1il6J)
 
-[![pPThFLq.png](https://z1.ax1x.com/2023/09/24/pPThFLq.png)](https://imgse.com/i/pPThFLq)
+[![4bbb3b309786b5f45d1d2355bfb4a1d3.jpeg](https://s1.imagehub.cc/images/2024/04/27/4bbb3b309786b5f45d1d2355bfb4a1d3.jpeg)](https://www.imagehub.cc/image/b1iBcI)
 
-[![pPThAe0.jpg](https://z1.ax1x.com/2023/09/24/pPThAe0.jpg)](https://imgse.com/i/pPThAe0)
+[![1d6a49e9a81badb608d1ebd01aac41b4.jpeg](https://s1.imagehub.cc/images/2024/04/27/1d6a49e9a81badb608d1ebd01aac41b4.jpeg)](https://www.imagehub.cc/image/b1iNVh)
 
 **see you later**:wave:
