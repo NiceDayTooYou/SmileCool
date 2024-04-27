@@ -33,7 +33,7 @@ date: '2023-09-20'
 
 ## :white_check_mark: 学好英语的同时，写好汉字同样重要
 
-[![pPIdFM9.png](https://z1.ax1x.com/2023/09/21/pPIdFM9.png)](https://imgse.com/i/pPIdFM9)
+[![7b8b0448e02d40f134f32f9a2109300b.png](https://s1.imagehub.cc/images/2024/04/27/7b8b0448e02d40f134f32f9a2109300b.png)](https://www.imagehub.cc/image/b1iw57)
 
 ## :dart: 其它内容
 
@@ -62,9 +62,9 @@ I will gradually improve and modify these contents in the future.
 
 ## :dart: 赞助
 
-![This is a photo](/blog/picture/zfbzf.png 'This is a photo')
+[![4357bf21d11b1b58018fa2f0ba7e3d36.png](https://s1.imagehub.cc/images/2024/04/21/4357bf21d11b1b58018fa2f0ba7e3d36.png)](https://www.imagehub.cc/image/bfsJOs)
 
-![This is a photo](/blog/picture/wxzf.png 'This is a photo')
+[![a465d59b2e6fb7d4d2f2ffa178520ed5.png](https://s1.imagehub.cc/images/2024/04/21/a465d59b2e6fb7d4d2f2ffa178520ed5.png)](https://www.imagehub.cc/image/bfsNY4)
 
 至于为什么会弄这么多关于赞助的图，主要是因为目前没什么可以展示的图，还有一点就是为了测试一下图片是否正确加载...
 
