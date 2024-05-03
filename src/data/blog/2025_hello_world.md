@@ -1,7 +1,7 @@
 ---
 banner_alt: nothing
 banner: https://images.unsplash.com/photo-1494256997604-768d1f608cac?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2129&q=80
-title: 一些常用的英语单词
+title: 常用英语单词
 description: 单词来自网络的分享和整理，不管记什么单词，多多益善.
 date: '2023-09-20'
 ---
