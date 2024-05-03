@@ -2,7 +2,7 @@
 banner_alt: nothing
 banner: https://images.unsplash.com/reserve/bOvf94dPRxWu0u3QsPjF_tree.jpg?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2076&q=80
 title: 想法很重要
-description: 为什么说想法很重要，因为你能想到什么取决于你都知道多少，我很喜欢记录，所以我把这些话写出来.
+description: 为什么说想法很重要，因为你能想到什么取决于你都知道多少.
 date: '2023-08-01'
 ---
 
