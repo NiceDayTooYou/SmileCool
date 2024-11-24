@@ -58,14 +58,10 @@ I will gradually improve and modify these contents in the future.
 
 ---
 
-虽然我喜欢摄影，但是我现在很少拍照，因为我对照片的清晰度不满意，觉得画质不好，所以我会考虑选择一个合适的设备
+怎样才能拍到满意的照片呢，随便拍几张
 
-## :dart: 赞助
+## :dart: 以后的话以后再说
 
-[![4357bf21d11b1b58018fa2f0ba7e3d36.png](https://s1.imagehub.cc/images/2024/04/21/4357bf21d11b1b58018fa2f0ba7e3d36.png)](https://www.imagehub.cc/image/bfsJOs)
-
-[![a465d59b2e6fb7d4d2f2ffa178520ed5.png](https://s1.imagehub.cc/images/2024/04/21/a465d59b2e6fb7d4d2f2ffa178520ed5.png)](https://www.imagehub.cc/image/bfsNY4)
-
-至于为什么会弄这么多关于赞助的图，主要是因为目前没什么可以展示的图，还有一点就是为了测试一下图片是否正确加载...
+我知道 没有下次再见吧，世间有 多少细小如麻，世间有 太多无常变化，就算再见不会再见...
 
 **see you later**:wave:
