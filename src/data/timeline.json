@@ -21,12 +21,12 @@
 	},
 	{
 		"date": "08-01-2023",
-		"title": "第三个问题",
-		"description": "你知道Lo-Fi是什么吗，我不建议你去搜索答案",
+		"title": "这是另外一个页面",
+		"description": "我也希望听到别人的故事会有一些启发",
 		"icon": "feather:star",
 		"link": {
-			"text": "一个页面",
-			"url": "https://one.199681.xyz"
+			"text": "阅读",
+			"url": "https://liyong.us.kg/"
 		}
 	},
 	{
